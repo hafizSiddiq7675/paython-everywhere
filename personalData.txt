@@ -1,0 +1,5 @@
+Hello World 
+I will copy all content 
+of this file 
+to another file named 'personalData' 
+using for-loop 
